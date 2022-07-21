@@ -5,18 +5,16 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
 
 import Title from './components/Title.vue'
-import Title from './components/Title.vue'
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
-    Title: Title,
-    Title
-}
+    Title: Title
+  }
 }
 
 

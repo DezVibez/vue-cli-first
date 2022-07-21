@@ -10,7 +10,7 @@ La mia prima app con Vue CLI!
 <script>
 
 export default {
-    name: "Title"
+    name: "MyTitle"
 };
 
 </script>
@@ -20,7 +20,7 @@ export default {
 <style>
 
 h1 {
-    font-size: 300px;
+    font-size: 100px;
     text-align: center;
 }
 
